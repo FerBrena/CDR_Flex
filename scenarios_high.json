@@ -1,0 +1,88 @@
+{
+    "high": {
+        "CDR_Demand": "High",  
+        "Storage_Capacity": "High",  
+        "Cost": {
+            "DACCS": "Medium",
+            "BECCS": "Medium",
+            "OAE": "Medium",
+            "AR": "Medium",
+            "BC": "Medium",
+            "EW": "Medium"
+        },
+        "Limit": {
+            "DACCS": "High",
+            "BECCS": "High",
+            "OAE": "High",
+            "AR": "High",
+            "BC": "High",
+            "EW": "High"
+        }, 
+        "Subsidy": {
+            "DACCS": "High",
+            "BECCS": "High",
+            "OAE": "High",
+            "AR": "High",
+            "BC": "High",
+            "EW": "High"
+        }
+    },
+
+    "low": {
+        "CDR_Demand": "Low",  
+        "Storage_Capacity": "Low",  
+        "Cost": {
+            "DACCS": "High",
+            "BECCS": "High",
+            "OAE": "High",
+            "AR": "High",
+            "BC": "High",
+            "EW": "High"
+        },
+        "Limit": {
+            "DACCS": "High",
+            "BECCS": "High",
+            "OAE": "High",
+            "AR": "High",
+            "BC": "High",
+            "EW": "High"
+        },
+        "Subsidy": {
+            "DACCS": "Low",
+            "BECCS": "Low",
+            "OAE": "Low",
+            "AR": "Low",
+            "BC": "Low",
+            "EW": "Low"
+        }
+    },
+
+    "mod": {
+        "CDR_Demand": "Medium",  
+        "Storage_Capacity": "Medium",  
+        "Cost": {
+            "DACCS": "Medium",
+            "BECCS": "Medium",
+            "OAE": "Medium",
+            "AR": "Medium",
+            "BC": "Medium",
+            "EW": "Medium"
+        },
+        "Limit": {
+            "DACCS": "High",
+            "BECCS": "High",
+            "OAE": "High",
+            "AR": "High",
+            "BC": "High",
+            "EW": "High"
+        },
+        "Subsidy": {
+            "DACCS": "Medium",
+            "BECCS": "Medium",
+            "OAE": "Medium",
+            "AR": "Medium",
+            "BC": "Medium",
+            "EW": "Medium"
+        }
+    }
+}
